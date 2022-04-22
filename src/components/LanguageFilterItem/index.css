@@ -1,0 +1,13 @@
+.header-li {
+  list-style-type: none;
+  margin: 10px;
+}
+.btn {
+  outline: none;
+  cursor: pointer;
+  /* border: 5px solid blue; */
+  padding: 3px 5px;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}

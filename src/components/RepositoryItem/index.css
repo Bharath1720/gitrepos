@@ -1,0 +1,29 @@
+.avatar_image {
+  height: 80px;
+  margin-left: 30px;
+}
+.item-li {
+  list-style-type: none;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 10px;
+  padding: 30px;
+  background-color: #f8f8ff;
+  height: 250px;
+  width: 200px;
+}
+.logo {
+  height: 16px;
+  margin: 0px 3px;
+}
+.title {
+  color: #e73959;
+  font-family: 'Roboto';
+  margin: 5px 0px;
+  font-weight: bolder;
+}
+.section {
+  margin: 5px 0px;
+}
